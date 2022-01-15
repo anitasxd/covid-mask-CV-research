@@ -1,0 +1,6 @@
+train: darknet_data/train
+val: darknet_data/valid
+
+nc: 2
+names: ['no_mask', 'mask']
+
